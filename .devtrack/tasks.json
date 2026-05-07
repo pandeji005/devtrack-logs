@@ -40,7 +40,7 @@
     "priority": "medium",
     "labels": [],
     "due_date": null,
-    "committed": false,
+    "committed": true,
     "created_at": "2026-05-07T16:39:35.832946",
     "completed_at": null
   }
